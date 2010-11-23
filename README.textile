@@ -1,4 +1,4 @@
-== Geckoboard Magento Widgets
+*Geckoboard Magento Widgets*
 
 A set of widgets for displaying various pieces of Magento information on a Geckoboard.
 
