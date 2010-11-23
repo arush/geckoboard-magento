@@ -1,0 +1,12 @@
+== Geckoboard Magento Widgets
+
+A set of widgets for displaying various pieces of Magento information on a Geckoboard.
+
+For more information view the original Geckoboard post and examples that inspired these widgets:
+http://geckoboard.zendesk.com/entries/296250-how-to-magento-ecommerce-widgets-v1-0
+
+Set config values in config.php, upload the whole script to your server and set up the widgets you want to use per the Geckoboard blog post above.
+
+Included widgets:
+
+* order-status.php => Shows the number of orders currently with a status of 'Processing' in your Magento install
