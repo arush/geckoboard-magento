@@ -3,7 +3,7 @@
  * Geckoboard Magento Widgets - Global Config
  * Enter your config settings here for use in the other widgets
  * 
- * Copyright (c) 2010, Simon Young
+ * Copyright (c) 2012, Arush Sehgal
  * (Based on Geckoboard support docs here: http://geckoboard.zendesk.com/entries/296250-how-to-magento-ecommerce-widgets-v1-0)
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -28,9 +28,6 @@
  * 
  */
  
- $apiKey = 'KEY'; // enter a strong unguessable key here that you will use in Geckoboard widget setup
- $endPoint = 'http://DOMAIN/api/soap/?wsdl'; // enter the location of the Magento API endpoint here
- $mageUser = 'USERNAME'; // enter the name of a Magento web services user
- $magePass = 'PASSWORD'; // enter the password of the Magento web services user
+ $apiKey = 'j97nad5g68nasdg'; // enter a strong unguessable key here that you will use in Geckoboard widget setup
  
 ?>
